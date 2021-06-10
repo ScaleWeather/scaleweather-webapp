@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,12 +46,12 @@
      fit-margin-right="10"
      fit-margin-bottom="10"
      inkscape:zoom="1.3557203"
-     inkscape:cx="276.19841"
+     inkscape:cx="240.42407"
      inkscape:cy="11.56234"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Group_28" />
+     inkscape:current-layer="g861" />
   <g
      id="Group_30"
      data-name="Group 30"
@@ -125,12 +125,6 @@
                style="font-weight:400;font-family:OpenSans, 'Open Sans'"
                d="m 368.49609,-31.060547 q 2.03174,0 3.646,0.333985 l -0.64014,4.286132 q -1.89258,-0.41748 -3.33984,-0.41748 -3.70166,0 -6.3457,3.005859 -2.61621,3.00586 -2.61621,7.486817 V 0 h -4.62012 v -30.503906 h 3.81299 l 0.5288,5.649902 h 0.22266 q 1.69776,-2.978027 4.09131,-4.592285 2.39355,-1.614258 5.26025,-1.614258 z" />
           </g>
-          <path
-             inkscape:connector-curvature="0"
-             transform="rotate(-34,22.05919,-1.288835)"
-             d="m 0,86.874 a 10.817,10.817 0 0 1 4.249,-8.6 L 10.935,0 18.283,79.009 A 10.833,10.833 0 1 1 0,86.874 Z"
-             data-name="Union 2"
-             id="Union_2" />
           <path
              style="fill:#ffffff"
              inkscape:connector-curvature="0"
