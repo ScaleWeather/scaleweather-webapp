@@ -1,0 +1,95 @@
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>ScaleWeather</title>
+	<link rel="shortcut icon" type="image/svg" href="images/icon.svg" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<style>
+	* {
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	body,
+	html {
+		height: 99%;
+		display: grid;
+	}
+
+	a {
+		color: #2980b9;
+		text-decoration: none;
+	}
+
+	.content {
+		margin: auto;
+		font-family: 'Open Sans', 'Trebuchet MS', 'Arial', 'sans-serif';
+		font-weight: 400;
+		font-size: 1.6em;
+	}
+
+	.content div {
+		width: 90%;
+		max-width: 500px;
+		margin: auto;
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.logo img {
+		width: 100%;
+	}
+
+	.creators p {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-weight: 700;
+	}
+
+	.content .repolink {
+		margin-top: 50px;
+	}
+
+	.repolink img {
+		height: 1.2em;
+		vertical-align: text-top;
+	}
+
+	/* Grow */
+	.hvr-grow {
+		transform: translateZ(0);
+		-moz-osx-font-smoothing: grayscale;
+		transition-duration: 0.3s;
+		transition-property: transform;
+	}
+
+	.hvr-grow:hover,
+	.hvr-grow:focus,
+	.hvr-grow:active {
+		transform: scale(1.03);
+	}
+</style>
+
+<body>
+	<div class="content">
+		<div class="logo">
+			<img alt="ScaleWeather Logo" src="images/scalewx_logo.svg">
+		</div>
+		<div class="creators">
+			<p>Creators</p>
+			Jakub Lewandowski<br>
+			Aleksy Gałkowski
+		</div>
+		<div class="repolink hvr-grow">
+			<a href="https://github.com/ScaleWeather">
+				<img alt="Github logo" src="images/github_logo.svg">
+				View on Github
+			</a>
+		</div>
+	</div>
+</body>
+
+</html>
