@@ -4,6 +4,8 @@
 ![Github Actions](https://img.shields.io/github/actions/workflow/status/ScaleWeather/scaleweather-webapp/main.yml?branch=main&label=deploy&style=flat-square)
 
 
-## License
+## Copyright and License
 
-ScaleWeather Web Application is licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+Copyright 2021-2023 Jakub Lewandowski, Aleksy Gałkowski
+
+ScaleWeather Web Application is licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
