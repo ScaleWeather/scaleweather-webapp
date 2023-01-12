@@ -1,7 +1,7 @@
 # ScaleWeather Web App
 
-![License Shield](https://img.shields.io/github/license/ScaleWeather/scaleweather-website?style=flat-square)
-![Github Actions](https://img.shields.io/github/workflow/status/ScaleWeather/scaleweather-website/deploy?label=deploy&style=flat-square)
+![License Shield](https://img.shields.io/github/license/ScaleWeather/scaleweather-webapp?style=flat-square)
+![Github Actions](https://img.shields.io/github/actions/workflow/status/ScaleWeather/scaleweather-webapp/main.yml?branch=main&label=deploy&style=flat-square)
 
 
 ## License
